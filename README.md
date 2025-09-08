@@ -1,7 +1,5 @@
 # Cisco Packet Tracer Project
 
-![Cisco Packet Tracer Logo](images/cisco_logo.png)
-
 This project contains a Cisco Packet Tracer file (`Cisco Packet Tracer.pkt`) that can be used to simulate and analyze network configurations and topologies. Cisco Packet Tracer is a powerful network simulation tool that allows users to practice networking concepts and experiment with network behavior.
 
 ## Prerequisites
@@ -25,7 +23,7 @@ Before using this project, ensure you have the following:
    - Once the file is loaded, you can view the network topology.
    - Use the simulation mode to analyze packet flow and troubleshoot network issues.
 
-   ![Network Topology Example](images/network_topology_example.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/97c8480d-42ed-4758-9ba7-47823f8ffaa9" />
 
 4. **Modify the Topology** (Optional):
    - Add or remove devices, configure settings, and experiment with different network scenarios.
